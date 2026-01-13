@@ -8,7 +8,6 @@ Unterstützt Messung von **Temperatur (°C/°F)** und **relativer Luftfeuchte (%
 
 ## Installation
 
-**Variante A – Release‑Tag (empfohlen)**  
 MakeCode → **Erweiterungen** → **Erweiterung hinzufügen** → **GitHub‑URL**:
 
 ## Verdrahtung
