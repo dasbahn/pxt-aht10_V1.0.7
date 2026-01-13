@@ -2,13 +2,10 @@
 {
   "name": "pxt-aht10",
   "version": "1.1.0",
-  "description": "AHT10 Temperatur- und Feuchtigkeitssensor für BBC micro:bit (MakeCode)",
+  "description": "AHT10 temperature & humidity sensor for BBC micro:bit / Calliope (MakeCode), I2C @ 0x38",
   "license": "MIT",
-  "dependencies": {
-    "core": "*"
-  },
-  "files": [
-    "aht10.ts",
-    "README.md"
-  ]
+  "dependencies": { "core": "*" },
+  "files": ["aht10.ts","README.md","test.ts"],
+  "icon": "icon.png",
+  "public": true
 }
